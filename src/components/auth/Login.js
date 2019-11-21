@@ -44,7 +44,7 @@ class Login extends React.Component {
 
   render() {
     if (this.state.loading) return (
-      <SplashScreen
+      <LoadingScreen
         message={this.state.splashMessage}
       />
     )
