@@ -1,6 +1,6 @@
 import React from 'react'
 
-const SplashScreen = ({ message }) => (
+const LoadingScreen = ({ message }) => (
   <section className="center-page">
     <div className="hero-body">
       <div className="container">
@@ -9,4 +9,4 @@ const SplashScreen = ({ message }) => (
     </div>
   </section>
 )
-export default SplashScreen
+export default LoadingScreen
