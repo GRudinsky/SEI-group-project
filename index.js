@@ -28,4 +28,6 @@ app.get('/*', (req, res) => res.sendFile(`${__dirname}/dist/index.html`))
 
 app.listen(port, () => console.log(`Up and running on port ${port}`))
 
+app.listen(process.env.PORT, () => console.log(`Running on port ${process.env.PORT}`))
+
 module.exports = app

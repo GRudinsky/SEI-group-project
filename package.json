@@ -9,7 +9,8 @@
     "serve:front": "webpack-dev-server",
     "seed": "node db/seeds.js",
     "build": "webpack -p",
-    "start": "node index.js"
+    "start": "node index.js",
+    "serve": "webpack-dev-server --mode=development"
   },
   "repository": {
     "type": "git",
