@@ -1,5 +1,5 @@
 ![ga_logo](https://user-images.githubusercontent.com/38439393/70393846-99b26800-19e6-11ea-82a0-35c1b5738321.png)
-# Project 2: Rekordr
+# SEI Project 3: Rekordr
 
 ## Overview 
 
